@@ -44,6 +44,8 @@
 		E4C043E62CEF4B8900E38DAE /* PakeiosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PakeiosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4C043EA2CEF4B8900E38DAE /* PakeiosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PakeiosUITests.swift; sourceTree = "<group>"; };
 		E4C043EC2CEF4B8900E38DAE /* PakeiosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PakeiosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E4C043F92CEF4C8200E38DAE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = PakeiosUITests/README.md; sourceTree = SOURCE_ROOT; };
+		E4C043FA2CEF4D1400E38DAE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		E4C043C32CEF4B8800E38DAE = {
 			isa = PBXGroup;
 			children = (
+				E4C043FA2CEF4D1400E38DAE /* README.md */,
 				E4C043CE2CEF4B8800E38DAE /* Pakeios */,
 				E4C043DF2CEF4B8900E38DAE /* PakeiosTests */,
 				E4C043E92CEF4B8900E38DAE /* PakeiosUITests */,
@@ -121,6 +124,7 @@
 		E4C043E92CEF4B8900E38DAE /* PakeiosUITests */ = {
 			isa = PBXGroup;
 			children = (
+				E4C043F92CEF4C8200E38DAE /* README.md */,
 				E4C043EA2CEF4B8900E38DAE /* PakeiosUITests.swift */,
 				E4C043EC2CEF4B8900E38DAE /* PakeiosUITestsLaunchTests.swift */,
 			);
